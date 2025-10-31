@@ -1,10 +1,10 @@
-# 🌟 Chaipat Cha-emsin | Data Analyst Portfolio
+# 🌟 ...| Data Analyst Portfolio
 
 ## 🔹 About Me
 Experienced Data Analyst (Sritrang Group) specializing in Power BI, Microsoft Fabric, SQL, and Salesforce CRMA.
 
 ## 🔹 Featured Projects
-### 🧭 Adoption Project (Data Platform Integration)
+### 🧭 ... Project (Data Platform Integration)
 - Designed cross-department KPI structure (LM, Planning, RM, CS)
 - Created As-Is process documentation & summarized workflow into CRMA-ready dashboards  
 - 📄 [Read the summary](link-to-your-file)
